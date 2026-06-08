@@ -1,8 +1,8 @@
 return {
     Id = "vale",
     Name = "Vale Language Server",
-    Version = "1.0.3",
-    CompatVersion = "1.0.3",
+    Version = "1.0.4",
+    CompatVersion = "1.0.4",
     VendorId = "theqtcompany",
     Vendor = "The Qt Company",
     Copyright = "(C) The Qt Company 2024",
